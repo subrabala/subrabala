@@ -1,6 +1,6 @@
 - Hi, I’m @subrabala
 - I’m interested in Web development and UI/UX
-- I’m currently learning React JS and Figma
+- Currently learning JS and SCSS
 - I’m looking to collaborate in a project where I can play the role of a Frontend developer
 
 
