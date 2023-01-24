@@ -1,6 +1,6 @@
 - Hi, I’m @subrabala
 - I’m interested in Web development and UI/UX
-- Currently learning JS and SCSS
+- Currently learning React and Tensorflow
 - I’m looking to collaborate in a project where I can play the role of a Frontend developer
 
 
