@@ -1,7 +1,7 @@
-# Hello, Subrabala here :) 👋
+<h1 align="center">Hello, Subrabala here :) 👋</h1>
 
 Creative individual with a passion for building sleek, responsive, and user-friendly web and mobile applications.
-
+<br/>
 ## Tech Stack
 
 Here are the technologies I'm familiar with and have worked on in my projects:
@@ -59,12 +59,13 @@ Here are the technologies I'm familiar with and have worked on in my projects:
 
 
 Currently, I'm working with Node.js, Express, and MongoDB on the backend, and I'm continually learning and expanding my skillset to build robust and scalable applications.
-
+<br/>
 ## Projects
 
 - [Codepen-clone](codepen-ten.vercel.app/): A web application for tracking personal expenses.
 - [Recipie finder](foody-blush.vercel.app): A responsive e-commerce website built with React and Redux.
 - [ToDo app](to-do-react-gilt.vercel.app): A mobile app for managing workout routines.
+<br/>
 
 ## Reach me :
 <p align="left">
@@ -72,6 +73,6 @@ Currently, I'm working with Node.js, Express, and MongoDB on the backend, and I'
 <a href="https://www.linkedin.com/in/subrabala-dash-4740951a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakkurthi-sashank/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/subrabala_dash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sashank7900/" height="30" width="40" /></a>
 </p>
-
+<br/>
 Thank you for visiting my profile, and I look forward to connecting with you soon!
 
