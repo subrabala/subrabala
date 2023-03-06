@@ -35,6 +35,22 @@ Here are the technologies I'm familiar with and have worked on in my projects:
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="50" height="50"/>
   </a>
+  <a href="https://opencv.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" width="40" height="40" style="margin: 5px;"/>
+</a>
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/numpy.png" alt="NumPy" width="40" height="40" style="margin: 5px;"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40" style="margin: 5px;"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40" style="margin: 5px;"/>
+</a>
+<a href="https://krita.org/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/krita.png" alt="Krita" width="40" height="40" style="margin: 5px;"/>
+</a>
+
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="50" height="50"/>
   </a>
