@@ -1,7 +1,8 @@
 <h1 align="center">Hello, Subrabala here :) 👋</h1>
 
-Creative individual with a passion for building sleek, responsive, and user-friendly web and mobile applications.
+<p align="center">Creative individual with a passion for building sleek, responsive, and user-friendly web and mobile applications.</p>
 <br/>
+
 ## Tech Stack
 
 Here are the technologies I'm familiar with and have worked on in my projects:
@@ -60,6 +61,9 @@ Here are the technologies I'm familiar with and have worked on in my projects:
 
 Currently, I'm working with Node.js, Express, and MongoDB on the backend, and I'm continually learning and expanding my skillset to build robust and scalable applications.
 <br/>
+<br/>
+
+
 ## Projects
 
 - [Codepen-clone](codepen-ten.vercel.app/): A web application for tracking personal expenses.
