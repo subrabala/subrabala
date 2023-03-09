@@ -85,9 +85,9 @@ Currently, I'm working with Node.js, Express, and MongoDB on the backend, and I'
 
 ## Reach me :
 <p align="left">
-<a href="https://www.facebook.com/subrabala.dash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sashank_123" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/subrabala-dash-4740951a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakkurthi-sashank/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/subrabala_dash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sashank7900/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/subrabala.dash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subrabala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subrabala-dash-4740951a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subrabala/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/subrabala_dash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subrabala_dash" height="30" width="40" /></a>
 </p>
 <br/>
 Thank you for visiting my profile, and I look forward to connecting with you soon!
