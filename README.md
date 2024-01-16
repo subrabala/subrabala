@@ -78,7 +78,7 @@ Currently, I'm working with Node.js, Express, and MongoDB on the backend, and I'
 
 ## Projects
 
-- [Codepen-clone](codepen-ten.vercel.app/): A web application for tracking personal expenses.
+- [Outpass System](https://cap.srmap.edu.in ): A web portal for SRM AP to automate the process of issuing outpasses and managing it's approval + statistics
 - [Recipie finder](foody-blush.vercel.app): A responsive e-commerce website built with React and Redux.
 - [ToDo app](to-do-react-gilt.vercel.app): A mobile app for managing workout routines.
 <br/>
