@@ -71,7 +71,7 @@ Here are the technologies I'm familiar with and have worked on in my projects:
 </p>
 
 
-Currently, I'm working with Node.js, Express, and MongoDB on the backend, and I'm continually learning and expanding my skillset to build robust and scalable applications.
+Currently, I'm working with Node.js, Express, and Postgres on the backend, and I'm continually learning and expanding my skillset to build robust and scalable applications.
 <br/>
 <br/>
 
@@ -79,8 +79,8 @@ Currently, I'm working with Node.js, Express, and MongoDB on the backend, and I'
 ## Projects
 
 - [Outpass System](https://cap.srmap.edu.in ): A web portal for SRM AP to automate the process of issuing outpasses and managing it's approval + statistics
-- [Recipie finder](foody-blush.vercel.app): A responsive e-commerce website built with React and Redux.
-- [ToDo app](to-do-react-gilt.vercel.app): A mobile app for managing workout routines.
+- [WaFL](https://github.com/blackphin/WaFL) Web3 Accelerated Federated Learning: Unfold Hackathon Project that landed us $2000 Prize.
+- [Chat Application](https://github.com/subrabala/ChatApp-w-firebase): A chat application using Flutter and Firebase.
 <br/>
 
 ## Reach me :
